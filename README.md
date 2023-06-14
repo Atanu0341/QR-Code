@@ -13,15 +13,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-Desktop preview
+Desktop preview :
 ![image](https://github.com/Atanu0341/QR-Code/assets/100512046/07976e86-e3ec-4d6a-8cee-adc38d1f0e57)
 
-Mobile Preview
+Mobile Preview :
 ![image](https://github.com/Atanu0341/QR-Code/assets/100512046/a64aec80-56bf-4628-8f2f-e2eb5fc6c039)
 
 ### Links
 
 Solution URL: https://www.frontendmentor.io/solutions/qrcode-n40RDKyWlg
+
 Live Site URL: https://qr-code-dusky-beta.vercel.app/
 
 
